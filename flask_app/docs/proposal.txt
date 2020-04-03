@@ -1,0 +1,7 @@
+﻿My website is going to be a multiplayer pvp game where you constantly try to improve your items and become the best.
+There will be many ways to get items. I'm planning to create an “auction house” where players can auction their unwanted items for coins and other players can bid on them. The items will either be a weapon, armor or potion.  I’m also hoping to implement a quest system where the rewards will be items.
+There will be many different types of quests, you will be able to choose what type of quest you’d like to start for example a hitman quest where you try to assassinate a certain player in your lobby or something like a searching quest where something will spawn in the map and you need to go and locate it. Quest will also reward coins.
+Alternate ways of earning coins will be the coliseum where you pay a certain fine to get in then you are matched up with a random player and you fight. You will get your money back and the amount your opponent paid(which is the same as you did, essentially doubling your coins).
+
+
+I think the auction house would be the easiest to implement and I’d like to do that first
